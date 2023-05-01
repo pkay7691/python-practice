@@ -20,3 +20,4 @@ for i in range(1,21):
         pass
     else: 
         print(1)
+
